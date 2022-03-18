@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis Using R 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Traffic Crash Risk Modeling](/sample_page)
+<img src="images/trafficcrash.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Predicting Bike Share Trips](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -16,8 +16,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Ridesharing in Chicago](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
+---
+
+### Data Analysis Using Python
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,9 +31,6 @@
 
 ---
 
-
-
+### Ongoing Projects
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
