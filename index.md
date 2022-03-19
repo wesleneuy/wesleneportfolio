@@ -16,8 +16,8 @@ you will pick a city with a bike share open data feed and forecast space/time de
 <img src="images/stplaner1.jpg?raw=true"/>
 <img src="images/stplaner2.jpg?raw=true"/>
 ---
-[Ridesharing in Chicago](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ridesharing in Chicago](https://wesleneuy.github.io/chicagorideshare/Background/)
+<img src="images/rideshare.jpg?raw=true"/>
 
 ---
 
