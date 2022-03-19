@@ -8,7 +8,7 @@
 <img src="images/trafficcrash.jpg?raw=true"/>
  
 ---
-[Predicting Bike Share Trips](/pdf/Assignment-6_updated.pdf)
+[Predicting Bike Share Trips](/pdf/Assignment-6_updated.html)
 <img src="images/bikeshare.jpg?raw=true"/>
 you will pick a city with a bike share open data feed and forecast space/time demand for bike share pickups
 ---
