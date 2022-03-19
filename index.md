@@ -2,11 +2,11 @@
 
 ---
 
-### Data Analysis Using R 
+### Portfolio Projects
 
-[Traffic Crash Risk Modeling](/sample_page)
+[Traffic Crash Risk Modeling](/pdf/Assignment-3-final.html)
 <img src="images/trafficcrash.jpg?raw=true"/>
-
+ 
 ---
 [Predicting Bike Share Trips](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -33,4 +33,7 @@
 
 ### Ongoing Projects
 
+### Thesis
+### 
+The purpose of this project is to estimate a predictive model that yields predictions in space interpreted as ‘the probability that an area will be inundated with flood water”. You will train and validate your model on Calgary and then predict for a comparable city. 
 ---
