@@ -9,7 +9,7 @@
  
 ---
 [Predicting Bike Share Trips](/pdf/Assignment-6_updated.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bikeshare.jpg?raw=true"/>
 you will pick a city with a bike share open data feed and forecast space/time demand for bike share pickups
 ---
 [OD Pairs](http://example.com/)
