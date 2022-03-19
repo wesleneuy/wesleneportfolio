@@ -12,9 +12,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 you will pick a city with a bike share open data feed and forecast space/time demand for bike share pickups
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[OD Pairs](http://example.com/)
+<img src="images/stplaner1.jpg?raw=true"/>
+<img src="images/stplaner2.jpg?raw=true"/>
 ---
 [Ridesharing in Chicago](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
