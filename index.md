@@ -8,6 +8,7 @@
 Click [here](/pdf/Assignment-3-final.html)
  
 ---
+
 ## Predicting Bike Share Trips 
 <img src="images/bikeshare.jpg?raw=true"/>
 you will pick a city with a bike share open data feed and forecast space/time demand for bike share pickups
@@ -22,12 +23,15 @@ Click [here](https://rpubs.com/weslene/oduniversitycity)
 ## Ridesharing in Chicago 
 <img src="images/rideshare.jpg?raw=true"/>
 Click [here](https://wesleneuy.github.io/chicagorideshare/Background/)
+---
 
-
+## Equity Plan for District 6 
+[here](https://upenn.app.box.com/s/visk40didyr7tt4s5sioq10owt05dyy7)
 ---
 
 # Writing Sample
-(/pdf/Teaching Case.pdf)
+
+[here](/pdf/Teaching Case.pdf)
 ---
 
 # Ongoing Projects
