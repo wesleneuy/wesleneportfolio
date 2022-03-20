@@ -5,13 +5,13 @@
 ## Traffic Crash Risk Modeling
 <img src="images/trafficcrash.jpg?raw=true"/>
 
-[here](/pdf/Assignment-3-final.html)
+Click [here](/pdf/Assignment-3-final.html)
  
 ---
 ## Predicting Bike Share Trips 
 <img src="images/bikeshare.jpg?raw=true"/>
 you will pick a city with a bike share open data feed and forecast space/time demand for bike share pickups
-[here](/pdf/Assignment-6_updated.html)
+Click [here](/pdf/Assignment-6_updated.html)
 ---
 
 ## OD Pairs 
@@ -21,14 +21,7 @@ you will pick a city with a bike share open data feed and forecast space/time de
 
 ## Ridesharing in Chicago 
 <img src="images/rideshare.jpg?raw=true"/>
-[here](https://wesleneuy.github.io/chicagorideshare/Background/)
-
----
-
-## Data Analysis Using Python
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+Click [here](https://wesleneuy.github.io/chicagorideshare/Background/)
 
 
 ---
