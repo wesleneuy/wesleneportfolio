@@ -16,7 +16,7 @@ Click [here](/pdf/Assignment-6_updated.html)
 
 ## OD Pairs 
 <img src="images/stplanr.jpg?raw=true"/>
-
+Click [here](https://rpubs.com/weslene/oduniversitycity)
 ---
 
 ## Ridesharing in Chicago 
