@@ -31,7 +31,7 @@ Click [here](https://wesleneuy.github.io/chicagorideshare/Background/)
 
 # Writing Sample
 
-[here](/pdf/Teaching Case.pdf)
+[here](/pdf/Teachingcase.pdf)
 ---
 
 # Ongoing Projects
