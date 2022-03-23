@@ -3,7 +3,6 @@
 ---
 
 ## Predicting Bike Share Trips 
-#### R
 <img src="images/bikeshare.jpg?raw=true"/>
 Using Indego’s trip data, I developed a spatio-temporal model to predict ridership demand. The model was trained on data from the first three weeks of July 2021 and tested on data from the last week of July and the first week of August 2021. View the project markdown [here](/pdf/Assignment-6_updated.html).
 
