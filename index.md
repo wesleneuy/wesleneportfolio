@@ -37,14 +37,14 @@ I used the OSMnx Python package to visualize the number of crashes per street in
 ## Equity Plan for Oakland's District 6 
 <img src="images/wsbook.jpg?raw=true"/>
 
-For our planning workshop, our group proposed several strategies over a 20-year timeline for Oakland's District 6. These strategies present a clear picture of what District 6 could be: a district which will continue to benefit from its strong tradition of advocacy, with diverse residents united around maintaining healthy, safe, and interconnected neighborhoods where they have opportunities to fulfill their potential. I mapped transportation infrastructure and census data for Oakland’s District 6 using ArcGIS and helped produce our group’s District Equity Plan using Illustrator, InDesign, and Photoshop. View an excerpt of our report [here](https://upenn.app.box.com/s/visk40didyr7tt4s5sioq10owt05dyy7).
+For our planning workshop, our group proposed several strategies over a 20-year timeline for Oakland's District 6. These strategies present a clear picture of what District 6 could be: a district which will continue to benefit from its strong tradition of advocacy, with diverse residents united around maintaining healthy, safe, and interconnected neighborhoods where they have opportunities to fulfill their potential. Notable [contributions](https://upenn.app.box.com/s/visk40didyr7tt4s5sioq10owt05dyy7) are excerpted from the report.
 
 ---
 
 # Writing Samples
 * Drawing on my experience as a project officer at the Philippines' Department of Transportation, I wrote a teaching case on the Philippines' flagship Public Utility Vehicle Modernization Program. View the case study [here](/pdf/Teachingcase.pdf). 
 
-*  View the memo [here](/pdf/Memo_1.pdf). 
+* For my Multimodal Transport class, I proposed strategies for managing parking in San Francisco. My recommendations are based on the teaching case published by HKS. View the memo [here](/pdf/Memo_1.pdf). 
 
 * As a research associate at a think tank, I regularly contributed opinion articles to a leading business newspaper in the Philippines. My first op-ed [Can We Spend, Spend, Spend?](https://www.bworldonline.com/can-spend-spend-spend/) looks at the government's plan to introduce new taxes to finance its ambitious infrastructure program. View my other articles [here](https://www.bworldonline.com/tag/weslene-uy/).
 
