@@ -34,7 +34,7 @@ I prepared an exploratory and K-means cluser analysis of ridesharing in Chicago 
 ## Crash Index
 I used the OSMnx Python package to visualize the number of crashes per street in Philadelphia. I then calculated a crash index to normalize the measure of crash frequency per street. Index values range from 0 to 1. 
 
-<img src="images/crash.jpg?raw=true"/>
+<img src="images/crash.jpg?raw=true"/, width="200" height="400">
 
 ---
 
