@@ -5,11 +5,12 @@ logo: "images/unnamed.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
   <a href="pdf/Resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/weslene-uy/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/weslene-uy/">LinkedIn</a>|
+  <a href="https://github.com/wesleneuy">G</a> 
   </p>
    
   <p align="justify">
-   Masters of City Planning at UPenn, Expected Graduation: May 2022
+   Masters of City Planning '22 at the University of Pennsylvania
   <br><br>
   </p>
 theme: jekyll-theme-minimal
