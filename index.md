@@ -34,14 +34,14 @@ I prepared an exploratory and K-means cluser analysis of ridesharing in Chicago 
 ## Crash Index
 I used the OSMnx Python package to visualize the number of crashes per street in Philadelphia. I then calculated a crash index to normalize the measure of crash frequency per street. Index values range from 0 to 1. 
 
-<img src="images/crash.jpg?raw=true"/, width="200" height="400">
+<img src="images/crash.jpg?raw=true"/>
 
 ---
 
 ## Equity Plan for Oakland's District 6 
 For our planning workshop, our group proposed several strategies over a 20-year timeline for Oakland's District 6. These strategies present a clear picture of what District 6 could be: a district which will continue to benefit from its strong tradition of advocacy, with diverse residents united around maintaining healthy, safe, and interconnected neighborhoods where they have opportunities to fulfill their potential. Notable [contributions](https://upenn.app.box.com/s/visk40didyr7tt4s5sioq10owt05dyy7) are excerpted from the report.
 
-<img src="images/wsbook.jpg?raw=true"/>
+<img src="images/wsbook.jpg?raw=true"/ width="200" height="400">
 
 ---
 
