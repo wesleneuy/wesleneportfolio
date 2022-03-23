@@ -11,8 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p align="justify">
   Masters of City Planning '22 at the University of Pennsylvania
   <br><br>
-  My interests lie in using data visualization and analytics to identify spatial patterns and create compelling stories specifically around urban policies, affordable housing,
-  gentrification, and racial justice. 
+ 
   </p>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
