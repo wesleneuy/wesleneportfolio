@@ -41,7 +41,7 @@ I used the OSMnx Python package to visualize the number of crashes per street in
 ## Equity Plan for Oakland's District 6 
 For our planning workshop, our group proposed several strategies over a 20-year timeline for Oakland's District 6. These strategies present a clear picture of what District 6 could be: a district which will continue to benefit from its strong tradition of advocacy, with diverse residents united around maintaining healthy, safe, and interconnected neighborhoods where they have opportunities to fulfill their potential. Notable [contributions](https://upenn.app.box.com/s/visk40didyr7tt4s5sioq10owt05dyy7) are excerpted from the report.
 
-<img src="images/wsbook.jpg?raw=true"/>
+<img src="images/actransit.jpg?raw=true"/>
 
 ---
 
