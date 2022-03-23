@@ -45,6 +45,13 @@ For our planning workshop, our group proposed several strategies over a 20-year 
 
 ---
 
+## Speed Heatmap
+I used the GTFS Functions package in Python to visualize the speed (in km per hour) heatmap of SEPTA's Bus Route 21. View the interactive heatmap [here](/pdf/bus21.html). 
+
+<img src="images/speedheatmap.jpg?raw=true"/>
+
+---
+
 # Writing Samples
 * Drawing on my experience as a project officer at the Philippines' Department of Transportation, I wrote a teaching case on the Philippines' flagship Public Utility Vehicle Modernization Program. View the case study [here](/pdf/Teachingcase.pdf). 
 
