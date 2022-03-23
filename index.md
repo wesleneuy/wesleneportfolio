@@ -59,8 +59,8 @@ educational programs around disaster preparedness. [here](https://upenn.app.box.
 ---
 
 # Writing Samples
-*Drawing on my experience as a project officer at the Philippines' Department of Transportation, I wrote a teaching case on the Philippines' flagship Public Utility Vehicle Modernization Program. View the case study [here](/pdf/Teachingcase.pdf). 
+* Drawing on my experience as a project officer at the Philippines' Department of Transportation, I wrote a teaching case on the Philippines' flagship Public Utility Vehicle Modernization Program. View the case study [here](/pdf/Teachingcase.pdf). 
 
-*As a research associate at a think tank, I regularly contributed opinion articles to a leading business newspaper in the Philippines. My first op-ed, [Can We Spend, Spend, Spend?](https://www.bworldonline.com/can-spend-spend-spend/),looks at the government's plan to intorduce new taxes to finance its ambitious infrastructure program. View my other articles [here](https://www.bworldonline.com/tag/weslene-uy/).
+* As a research associate at a think tank, I regularly contributed opinion articles to a leading business newspaper in the Philippines. My first op-ed, [Can We Spend, Spend, Spend?](https://www.bworldonline.com/can-spend-spend-spend/),looks at the government's plan to intorduce new taxes to finance its ambitious infrastructure program. View my other articles [here](https://www.bworldonline.com/tag/weslene-uy/).
 
 ---
