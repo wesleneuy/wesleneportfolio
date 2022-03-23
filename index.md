@@ -46,7 +46,7 @@ I prepared an exploratory and K-means cluser analysis of ridesharing in Chicago 
 ---
 
 ## Equity Plan for Oakland's District 6 
-#### ArcGIS #### Illustrator #### InDesign #### Photoshop
+#### ArcGIS, Illustrator, InDesign, Photoshop
 <img src="images/wsbook.jpg?raw=true"/>
 
 For planning workshop, our group proposed several strategies over a 20-year timeline to incorporate the District’s strengths in the
