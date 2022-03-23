@@ -53,7 +53,7 @@ I used the GTFS Functions package in Python to visualize the speed (in km per ho
 ---
 
 # Writing Samples
-* Drawing on my experience as a project officer at the Philippines' Department of Transportation, I wrote a teaching case on the Philippines' flagship Public Utility Vehicle Modernization Program. View the case study [here](/pdf/Teachingcase.pdf). 
+* Drawing on my experience as a project officer at the Philippines' Department of Transportation, I wrote a teaching case on the country's flagship Public Utility Vehicle Modernization Program. View the case study [here](/pdf/Teachingcase.pdf). 
 
 * For my Multimodal Transport class, I proposed strategies for managing parking in San Francisco. My recommendations are based on the teaching case published by HKS. View the memo [here](/pdf/Memo_1.pdf). 
 
