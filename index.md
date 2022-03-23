@@ -2,7 +2,7 @@
 
 ---
 
-## Predicting Bike Share Trips ####`R`
+## Predicting Bike Share Trips `R`
 <img src="images/bikeshare.jpg?raw=true"/>
 Using Indego’s trip data, I developed a spatio-temporal model that could help predict ridership demand. The model was trained on data from the first three weeks of July 2021 and tested on data from the last week of July and the first week of August 2021. View the project markdown [here](/pdf/Assignment-6_updated.html).
 
@@ -22,12 +22,12 @@ I built a geospatial risk model to predict traffic crashes in Chicago. This proj
 Using the stplanr package in R, my team visualized the Origin and Destination pairs of work trips from Pennsylvania into University City. View the project markdown [here](https://rpubs.com/weslene/oduniversitycity).
 ---
 
-## Ridesharing in Chicago 
+## Ridesharing in Chicago `Python`
 <img src="images/rideshare.jpg?raw=true"/>
 I prepared an exploratory and K-means cluser analysis of ridesharing in Chicago for the month of October (2021). View the project [here](https://wesleneuy.github.io/chicagorideshare/Background/).
 
 
-`Python`
+
 ---
 
 ## Equity Plan for Oakland's District 6 
