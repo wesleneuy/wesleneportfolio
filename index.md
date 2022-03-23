@@ -3,40 +3,45 @@
 ---
 
 ## Predicting Bike Share Trips 
-<img src="images/bikeshare.jpg?raw=true"/>
 Using Indego’s trip data, I developed a spatio-temporal model to predict ridership demand. The model was trained on data from the first three weeks of July 2021 and tested on data from the last week of July and the first week of August 2021. View the project markdown [here](/pdf/Assignment-6_updated.html).
 
+<img src="images/bikeshare.jpg?raw=true"/>
+
 ---
 
-## Traffic Crash Risk Modeling 
-<img src="images/trafficcrash.jpg?raw=true"/>
+## Traffic Crash Risk Modeling
 I built a geospatial risk model to predict traffic crashes in Chicago. This project also highlights the challenges around selection bias. View the project markdown [here](/pdf/Assignment-3-final.html).
 
+<img src="images/trafficcrash.jpg?raw=true"/>
+
 ---
 
-## University City Worker Flows 
-<img src="images/stplaner1.jpg?raw=true"/>
-<img src="images/stplaner2.jpg?raw=true"/>
+## University City Worker Flows
 Using the stplanr package in R, our group visualized the Origin and Destination pairs of work trips from Pennsylvania into University City. View the project markdown [here](https://rpubs.com/weslene/oduniversitycity).
 
+<img src="images/stplaner1.jpg?raw=true"/>
+<img src="images/stplaner2.jpg?raw=true"/>
+
 ---
 
-## Ridesharing in Chicago 
-<img src="images/rideshare.jpg?raw=true"/>
+## Ridesharing in Chicago
 I prepared an exploratory and K-means cluser analysis of ridesharing in Chicago for the month of October (2021). View the project [here](https://wesleneuy.github.io/chicagorideshare/Background/).
 
+<img src="images/rideshare.jpg?raw=true"/>
+
 ---
 
-## Crash Index 
-<img src="images/crash.jpg?raw=true"/>
+## Crash Index
 I used the OSMnx Python package to visualize the number of crashes per street in Philadelphia. I then calculated a crash index to normalize the measure of crash frequency per street. Index values range from 0 to 1. 
+
+<img src="images/crash.jpg?raw=true"/>
 
 ---
 
 ## Equity Plan for Oakland's District 6 
-<img src="images/wsbook.jpg?raw=true"/>
-
 For our planning workshop, our group proposed several strategies over a 20-year timeline for Oakland's District 6. These strategies present a clear picture of what District 6 could be: a district which will continue to benefit from its strong tradition of advocacy, with diverse residents united around maintaining healthy, safe, and interconnected neighborhoods where they have opportunities to fulfill their potential. Notable [contributions](https://upenn.app.box.com/s/visk40didyr7tt4s5sioq10owt05dyy7) are excerpted from the report.
+
+<img src="images/wsbook.jpg?raw=true"/>
 
 ---
 
