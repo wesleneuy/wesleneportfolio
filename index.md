@@ -17,7 +17,7 @@ I built a geospatial risk model to predict traffic crashes in Chicago. This proj
 ---
 
 ## University City Worker Flows
-Using the stplanr package in R, our group visualized the Origin and Destination pairs of work trips from Pennsylvania into University City. View the project markdown [here](https://rpubs.com/weslene/oduniversitycity).
+Using the stplanr package in R, our group visualized the Origin and Destination pairs of work trips from different counties in Pennsylvania into University City. View the project markdown [here](https://rpubs.com/weslene/oduniversitycity).
 
 <img src="images/stplaner1.jpg?raw=true"/>
 <img src="images/stplaner2.jpg?raw=true"/>
